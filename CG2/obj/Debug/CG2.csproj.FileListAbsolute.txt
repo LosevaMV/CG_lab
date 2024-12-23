@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\CG2\CG2\bin\Debug\CG2.exe.config
+C:\Users\Admin\source\repos\CG2\CG2\bin\Debug\CG2.exe
+C:\Users\Admin\source\repos\CG2\CG2\bin\Debug\CG2.pdb
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.Form1.resources
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.exe
+C:\Users\Admin\source\repos\CG2\CG2\obj\Debug\CG2.pdb
